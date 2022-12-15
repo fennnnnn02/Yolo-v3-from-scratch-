@@ -9,6 +9,8 @@
 * To run detection over an image
   ```sh
   python3 detect.py
+  python detect.py --images test1.png --det det
+
   ```
 * Output will be stored in the same directory.
 
