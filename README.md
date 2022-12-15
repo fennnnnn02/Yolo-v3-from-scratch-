@@ -15,3 +15,5 @@
 * Output will be stored in the same directory.
 
 * Some examples of detection made are as follows
+
+![output](https://user-images.githubusercontent.com/91083791/207788921-5d2c8ec3-4733-47ab-8901-cc0d9573232a.jpg)
