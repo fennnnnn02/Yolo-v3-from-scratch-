@@ -17,3 +17,5 @@
 * Some examples of detection made are as follows
 
 ![output](https://user-images.githubusercontent.com/91083791/207788921-5d2c8ec3-4733-47ab-8901-cc0d9573232a.jpg)
+
+![output](https://user-images.githubusercontent.com/91083791/207789414-d437fbda-0b9f-4a17-a65b-f1f85199180e.jpg)
