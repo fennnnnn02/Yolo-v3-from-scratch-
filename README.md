@@ -19,3 +19,8 @@
 ![output](https://user-images.githubusercontent.com/91083791/207788921-5d2c8ec3-4733-47ab-8901-cc0d9573232a.jpg)
 
 ![output](https://user-images.githubusercontent.com/91083791/207789414-d437fbda-0b9f-4a17-a65b-f1f85199180e.jpg)
+
+
+* References followed 
+  - https://blog.paperspace.com/how-to-implement-a-yolo-object-detector-in-pytorch/
+  - https://medium.datadriveninvestor.com/yolov3-from-scratch-using-pytorch-part1-474b49f7c8ef
